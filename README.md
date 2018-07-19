@@ -12,9 +12,9 @@ La categoría de humanoides consiste en un combate no destructivo en el que comp
 
 Esta normativa se basa en el trabajo previo de otras competiciones de robots humanoides afines, tales como la [ROBO-ONE](http://www.robo-one.com/en/), [RoboGames](http://robogames.net/rules/r1-wrestling.php), [CEABOT](http://www.ceabot.es/) y [LNRC]().
 
-# Contributors
+# Contribuidores
 
- - Javier Isabel @JavierIH
+ - [JavierIH](https://github.com/JavierIH)
 
 # Licencia
 
