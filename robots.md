@@ -1,6 +1,6 @@
 # Estructura de los robots
 
-Los robots deben ser de tipo humanoide, lo que significa que constarán de dos brazos, dos piernas y una cabeza. Además su medio de locomoción debe estar basado en la marcha bípeda, no pudiendo ayudarse de ninguna extremidad mas allá de las patas para caminar.
+Los robots deben ser de tipo humanoide, lo que significa que constarán de dos brazos, dos piernas y una cabeza. Además su medio de locomoción debe estar basado en la marcha bípeda, no pudiendo ayudarse de ninguna extremidad mas allá de las patas para desplazarse.
 
 ## Tamaño
 
