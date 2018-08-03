@@ -19,3 +19,7 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots hum
 # Licencia
 
 <p align="center"><img src="images/by-sa.png" width="200" align = "center"></p>
+
+# Recursos
+
+[Raider](https://github.com/JavierIH/raider)
