@@ -20,8 +20,8 @@ La longitud de las extremidades se encontrará dentro de los valores máximos y 
 
 |              | MIN | MAX |
 |:------------:|:---:|:---:|
-| Pierna (cm)  | 10  | 30  |
-| Brazo (cm)   | 10  | 30  |
+| Pierna (cm)  | 10  | 34  |
+| Brazo (cm)   | 10  | 40  |
 
 La forma correcta de medir tanto la longitud de la pierna como el brazo se encuentra representada en la figura 2.
 
