@@ -1,6 +1,9 @@
 # Normativa para humanoides
 La categoría de humanoides consiste en un combate no destructivo en el que compiten robots uno contra uno. Los robots compiten sobre un tatami lo suficientemente grande para que puedan desplazarse libremente por su superficie.
 
+<p align="center"><img src="images/competicion.png" align = "center"></p>
+
+
 # Índice
 
  - [Robots y homologación](robots.md)
