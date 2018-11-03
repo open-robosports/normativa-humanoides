@@ -21,6 +21,7 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots hum
 
 # Recursos
 
+- [PacifistaBot](https://github.com/robotaleh/PacifistaBot)
 - [Raider](https://github.com/JavierIH/raider)
 - [MYOD](https://github.com/myod-robotics/MYOD)
 
